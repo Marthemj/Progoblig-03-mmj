@@ -1,3 +1,4 @@
+#knappene
 place-image(
   circle(10, "solid", "gold"),
   120, 20,
@@ -16,6 +17,7 @@ place-image(
        place-image(
         circle(12, "outline", "black"),
       120, 80,
+            #beltespenne
     place-image(
     rectangle(35, 35, "solid", "snow"),
         121, 130,
@@ -28,12 +30,14 @@ place-image(
            place-image(
            rectangle(57, 57, "solid", "black"),
             121, 130,
+                    #belte
              place-image(
              rectangle(240, 30, "solid", "snow"),
               121, 130,  
                place-image(
                 rectangle(240, 32, "solid", "black"),
                   121, 130,
+                        #outline til basen og basen
                 overlay(rectangle(242, 182, "outline", "black"),
    
                           rectangle(240, 180, "solid", "fire brick"))))))))))))))
